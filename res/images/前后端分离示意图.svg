@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="343 249 659 378" width="659" height="378">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="PingFang SC" font-size="16" panose-1="2 11 4 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-150" underline-thickness="58" slope="0" x-height="600" cap-height="860" ascent="1060.0021" descent="-340.0007" font-weight="400">
+      <font-face-src>
+        <font-face-name name="PingFangSC-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Hiragino Sans GB" font-size="25" panose-1="2 11 3 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="545" cap-height="766" ascent="880.0018" descent="-120.00024" font-weight="300">
+      <font-face-src>
+        <font-face-name name="HiraginoSansGB-W3"/>
+      </font-face-src>
+    </font-face>
+    <linearGradient x1="0" x2="1" id="Gradient" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c7b8ff"/>
+      <stop offset=".45238096" stop-color="#a08fe3"/>
+      <stop offset="1" stop-color="#7663c6"/>
+    </linearGradient>
+    <linearGradient id="Obj_Gradient" xl:href="#Gradient" gradientTransform="translate(673 512) rotate(90) scale(40)"/>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.10.2 
+    <dc:date>2019-05-15 11:29:21 +0000</dc:date>
+  </metadata>
+  <g id="版面___1" fill-opacity="1" stroke="none" stroke-dasharray="none" fill="none" stroke-opacity="1">
+    <title>版面 1</title>
+    <g id="版面___1: 图层 1">
+      <title>图层 1</title>
+      <g id="Group_9">
+        <g id="Graphic_3">
+          <title>Square</title>
+          <rect x="348" y="257" width="230" height="361"/>
+          <path d="M 346.79056 256.99523 L 580.34906 257.91565 M 578.7147 256.3398 L 577.19205 618.2623 M 577.9409 617.33085 L 348.3368 618.4337 M 349.08897 620.9084 L 347.99277 254.58527 M 347.1034 256.5993 L 579.0211 257.46115 M 579.2174 256.0281 L 577.5124 617.02194 M 578.25475 617.3018 L 349.3948 618.2733 M 349.32166 620.5962 L 348.1835 256.6879" stroke="#0da7a9" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+        <g id="Graphic_5">
+          <title>Circle</title>
+          <rect x="381" y="356" width="162" height="78.943245"/>
+          <path d="M 380.15855 356.0012 L 543.6635 355.77196 M 543.0268 355.3302 L 542.6648 435.89924 M 543.052 434.9208 L 380.57536 434.7224 M 381.2338 435.10095 L 380.99862 355.53476 M 380.2835 355.8514 L 543.1497 355.53965 M 543.2582 355.2057 L 542.85065 434.7956 M 543.1769 434.8784 L 381.35757 434.69566 M 381.3125 434.9761 L 381.04817 355.87523" stroke="#8ebd5b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <text transform="translate(386 383.9716)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="29.392" y="17">HTML </tspan>
+            <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" y="17">/ CSS</tspan>
+          </text>
+        </g>
+        <g id="Graphic_6">
+          <title>Circle</title>
+          <rect x="381" y="464.94325" width="162" height="116"/>
+          <path d="M 380.3547 464.94134 L 543.52545 465.42255 M 542.8948 465.0706 L 543.1667 581.4498 M 543.9648 580.5421 L 380.1707 580.5271 M 380.6313 580.9731 L 381.00187 464.35333 M 380.47996 464.7334 L 543.0207 465.2855 M 543.07884 464.94546 L 543.3735 580.4168 M 544.0898 580.4218 L 380.7577 580.4547 M 380.70283 580.84795 L 381.03555 464.81796" stroke="#8ebd5b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <text transform="translate(386 512.94325)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="38.072" y="15">JavaScript</tspan>
+          </text>
+        </g>
+        <g id="Graphic_8">
+          <title>Display text</title>
+          <text transform="translate(388 284.25)" fill="#0c380d">
+            <tspan font-family="Hiragino Sans GB" font-size="25" font-weight="300" fill="#0c380d" x="0" y="22">前端静态页面</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_15">
+        <g id="Graphic_11">
+          <path d="M 586 532 L 611.0263 512 L 611.0263 522.066 L 734.9737 522.066 L 734.9737 512 L 760 532 L 734.9737 552 L 734.9737 541.934 L 611.0263 541.934 L 611.0263 552 Z" fill="url(#Obj_Gradient)"/>
+          <path d="M 586 532 L 611.0263 512 L 611.0263 522.066 L 734.9737 522.066 L 734.9737 512 L 760 532 L 734.9737 552 L 734.9737 541.934 L 611.0263 541.934 L 611.0263 552 Z" stroke="#6453aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_12">
+          <text transform="translate(655.808 497)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Ajax</tspan>
+          </text>
+        </g>
+        <g id="Graphic_14">
+          <text transform="translate(655.808 546)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Json</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_19">
+        <g id="Graphic_10">
+          <title>Square</title>
+          <rect x="768" y="257" width="225" height="361"/>
+          <path d="M 766.4735 256.995 L 995.433 257.74438 M 993.9501 255.91483 L 993.3629 619.77175 M 995.7902 618.2213 L 767.505 617.49574 M 768.5851 619.29636 L 767.9986 256.15345 M 766.7865 256.51823 L 994.2606 257.13156 M 994.5616 255.6028 L 993.8497 617.9014 M 996.1021 618.079 L 768.8937 617.4941 M 768.692 618.9842 L 768.2752 256.68756" stroke="#ff9300" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+        <g id="Graphic_16">
+          <title>Display text</title>
+          <text transform="translate(817 286.25)" fill="#0c380d">
+            <tspan font-family="Hiragino Sans GB" font-size="25" font-weight="300" fill="#0c380d" x="0" y="22">后端</tspan>
+          </text>
+        </g>
+        <g id="Graphic_17">
+          <title>Circle</title>
+          <rect x="789" y="345" width="60" height="244"/>
+          <path d="M 788.2625 344.9972 L 850.0068 345.22995 M 849.4774 344.39596 L 848.6108 590.3125 M 849.5058 589.4373 L 788.46925 589.4272 M 789.0332 589.8737 L 788.9999 344.53865 M 788.3879 344.7742 L 849.5997 345.0458 M 849.6405 344.2711 L 848.7498 589.31216 M 849.6308 589.335 L 789.1581 589.36095 M 789.1507 589.7487 L 789.0217 344.875" stroke="#8ebd5b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <text transform="translate(794 448.552)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="9.44" y="15">Http</tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.296" y="33.448">Api</tspan>
+          </text>
+        </g>
+        <g id="Graphic_18">
+          <title>Circle</title>
+          <rect x="871" y="345" width="107" height="244"/>
+          <path d="M 870.4587 345.00034 L 978.8688 344.9322 M 978.346 344.1931 L 978.1085 589.863 M 978.6686 589.0579 L 871.0646 589.2318 M 871.4341 589.7459 L 870.999 344.41398 M 870.5837 344.8441 L 978.4702 344.72338 M 978.5868 344.0682 L 978.2727 588.9338 M 978.7937 589.0027 L 871.5582 589.12 M 871.5444 589.6209 L 871.0091 344.8752" stroke="#8ebd5b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <text transform="translate(876 428.328)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="31.756" y="15">Data</tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="16.052" y="33.448">Business</tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="24.492" y="51.895996">Others</tspan>
+            <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="40.5" y="72.34399">…</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
