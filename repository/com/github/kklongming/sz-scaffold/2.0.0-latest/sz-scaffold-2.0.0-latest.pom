@@ -110,6 +110,19 @@
       </exclusions>
     </dependency>
     <dependency>
+      <groupId>io.netty</groupId>
+      <artifactId>netty-transport-native-epoll</artifactId>
+      <version>4.1.15.Final</version>
+      <classifier>linux-x86_64</classifier>
+      <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>slf4j-log4j12</artifactId>
+          <groupId>org.slf4j</groupId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+    <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
       <version>27.0-jre</version>
