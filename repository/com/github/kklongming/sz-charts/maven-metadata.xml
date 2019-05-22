@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.github.kklongming</groupId>
-  <artifactId>sz-api-doc</artifactId>
+  <artifactId>sz-charts</artifactId>
   <versioning>
-    <release>2.0.0-latest</release>
+    <release>1.0.0-dev</release>
     <versions>
-      <version>2.0.0-latest</version>
+      <version>1.0.0-dev</version>
     </versions>
-    <lastUpdated>20190522091255</lastUpdated>
+    <lastUpdated>20190522091309</lastUpdated>
   </versioning>
 </metadata>
