@@ -6,12 +6,6 @@
   <version>3.0.0-latest</version>
   <dependencies>
     <dependency>
-      <groupId>com.github.kklongming</groupId>
-      <artifactId>jodd-dependency</artifactId>
-      <version>3.0.0-latest</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>org.bouncycastle</groupId>
       <artifactId>bcprov-jdk15on</artifactId>
       <version>1.58</version>
