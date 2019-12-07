@@ -12,6 +12,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.github.kklongming</groupId>
+      <artifactId>sz-crypto</artifactId>
+      <version>3.0.0-latest</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>io.ebean</groupId>
       <artifactId>ebean</artifactId>
       <version>12.1.2</version>

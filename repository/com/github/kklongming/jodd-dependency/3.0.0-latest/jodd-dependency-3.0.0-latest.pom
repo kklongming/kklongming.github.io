@@ -8,19 +8,19 @@
     <dependency>
       <groupId>org.jodd</groupId>
       <artifactId>jodd-core</artifactId>
-      <version>5.0.11</version>
+      <version>5.0.13</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.jodd</groupId>
       <artifactId>jodd-bean</artifactId>
-      <version>5.0.11</version>
+      <version>5.0.13</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.jodd</groupId>
       <artifactId>jodd-http</artifactId>
-      <version>5.0.11</version>
+      <version>5.0.13</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
