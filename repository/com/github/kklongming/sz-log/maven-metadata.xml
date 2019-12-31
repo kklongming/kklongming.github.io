@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.github.kklongming</groupId>
-  <artifactId>jodd-dependency</artifactId>
+  <artifactId>sz-log</artifactId>
   <versioning>
     <release>3.0.0-latest</release>
     <versions>
       <version>3.0.0-latest</version>
-      <version>2.0.0-latest</version>
     </versions>
-    <lastUpdated>20191231030955</lastUpdated>
+    <lastUpdated>20191231031012</lastUpdated>
   </versioning>
 </metadata>
