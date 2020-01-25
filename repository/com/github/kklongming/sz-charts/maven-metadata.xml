@@ -3,10 +3,11 @@
   <groupId>com.github.kklongming</groupId>
   <artifactId>sz-charts</artifactId>
   <versioning>
+    <latest>1.0.0-dev</latest>
     <release>1.0.0-dev</release>
     <versions>
       <version>1.0.0-dev</version>
     </versions>
-    <lastUpdated>20200116155630</lastUpdated>
+    <lastUpdated>20200125091532</lastUpdated>
   </versioning>
 </metadata>

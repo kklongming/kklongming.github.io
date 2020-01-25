@@ -3,11 +3,12 @@
   <groupId>com.github.kklongming</groupId>
   <artifactId>sz-api-doc</artifactId>
   <versioning>
+    <latest>3.0.0-latest</latest>
     <release>3.0.0-latest</release>
     <versions>
       <version>3.0.0-latest</version>
       <version>2.0.0-latest</version>
     </versions>
-    <lastUpdated>20200116155618</lastUpdated>
+    <lastUpdated>20200125091515</lastUpdated>
   </versioning>
 </metadata>
