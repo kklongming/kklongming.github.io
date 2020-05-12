@@ -3,12 +3,12 @@
   <groupId>com.github.kklongming</groupId>
   <artifactId>sz-log</artifactId>
   <versioning>
-    <latest>3.0.0-latest</latest>
-    <release>3.0.0-latest</release>
+    <latest>3.1.0-latest</latest>
+    <release>3.1.0-latest</release>
     <versions>
       <version>3.0.0-latest</version>
       <version>3.1.0-latest</version>
     </versions>
-    <lastUpdated>20200512120328</lastUpdated>
+    <lastUpdated>20200512120648</lastUpdated>
   </versioning>
 </metadata>
